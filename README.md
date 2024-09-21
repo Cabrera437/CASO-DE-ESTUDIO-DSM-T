@@ -1,5 +1,5 @@
 # 📱📱 CASO-DE-ESTUDIO-DSM
-Bienvenido a nuestro repositorio de la segunda investigación de desarollo movil 
+Bienvenido a nuestro repositorio de la segunda investigación de desarollo movil 👋🏻
 <br>
 ## ℹ️ Importante
 Ejecicio a desarrollar Aplicación movil con implementacion con API 
