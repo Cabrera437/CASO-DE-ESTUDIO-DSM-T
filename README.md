@@ -37,5 +37,8 @@ Ejecicio a desarrollar Aplicación movil con implementacion con API
 
 🟢[**Presentación 🔖📈**]()<br>
 
+🔵[**Video 📽**]()<br>
+
+
 
 
