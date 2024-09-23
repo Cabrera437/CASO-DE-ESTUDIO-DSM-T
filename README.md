@@ -37,7 +37,7 @@ Ejecicio a desarrollar Aplicación movil con implementacion con API
 
 🟢[**Presentación 🔖📈**]()<br>
 
-🔵[**Video 📽**](https://drive.google.com/file/d/1jPychwvJGqxG-8QzgHaW903clJo9x15X/view?usp=drivesdk)<br>
+🔵[**Video 📽**]()<br>
 
 
 
