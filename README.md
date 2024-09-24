@@ -33,7 +33,7 @@ Ejecicio a desarrollar Aplicación movil con implementacion con API
 </table>
 
 ## 📝 Archivos Importantes
-🔴[**Documento de investigación 📃📄**]()<br>
+🔴[**Documento de investigación 📃📄**](https://drive.google.com/file/d/1TCpk-kLKoUQ495EPEg06e2lAW0tpXhBn/view?usp=sharing)<br>
 
 🟢[**Presentación 🔖📈**]()<br>
 
