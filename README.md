@@ -35,7 +35,7 @@ Ejecicio a desarrollar Aplicación movil con implementacion con API
 ## 📝 Archivos Importantes
 🔴[**Documento de investigación 📃📄**](https://drive.google.com/file/d/1TCpk-kLKoUQ495EPEg06e2lAW0tpXhBn/view?usp=sharing)<br>
 
-🟢[**Presentación 🔖📈**]()<br>
+🟢[**Presentación 🔖📈**](https://docs.google.com/presentation/d/14VymnqZsPOBni_kTeLfdvmLGo4kECxnL/edit?usp=sharing&ouid=102017508868576383953&rtpof=true&sd=true)<br>
 
 🔵[**Video 📽**](https://drive.google.com/file/d/1ja3ny52bwpup9o96OdhHXpEWawX60osI/view?usp=drivesdk)<br>
 
